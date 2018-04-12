@@ -1,0 +1,5 @@
+//
+// Alessandra
+//
+
+bool //getQuestionResult();
